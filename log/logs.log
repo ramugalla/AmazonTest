@@ -1,0 +1,524 @@
+[INFO ] 2022-05-05 13:33:45.622 [main] TestListeners - Execution Started at 05-05-2022 01-33-44
+[INFO ] 2022-05-05 13:34:06.346 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 13:34:06.546 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 13:34:37.674 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 13:34:37.675 [main] TestListeners - java.lang.AssertionError: expected [] but found [Added to Cart]
+[INFO ] 2022-05-05 13:34:40.744 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 13:40:42.976 [main] TestListeners - Execution Started at 05-05-2022 01-40-42
+[INFO ] 2022-05-05 13:41:24.729 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 13:41:25.041 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 13:43:33.267 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 13:43:33.269 [main] TestListeners - java.lang.AssertionError: expected [Added to Cart] but found []
+[INFO ] 2022-05-05 13:43:39.086 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 13:51:54.501 [main] TestListeners - Execution Started at 05-05-2022 01-51-52
+[INFO ] 2022-05-05 13:52:29.977 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 13:52:30.218 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 13:53:12.183 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 13:53:12.188 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 13:53:17.852 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 13:54:57.236 [main] TestListeners - Execution Started at 05-05-2022 01-54-55
+[INFO ] 2022-05-05 13:55:31.075 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 13:55:31.356 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 13:56:12.293 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 13:56:12.297 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 13:56:17.842 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 13:56:55.921 [main] TestListeners - Execution Started at 05-05-2022 01-56-53
+[INFO ] 2022-05-05 13:57:32.624 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 13:57:32.971 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 13:58:14.331 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 13:58:14.335 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 13:58:19.268 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 13:59:54.425 [main] TestListeners - Execution Started at 05-05-2022 01-59-52
+[INFO ] 2022-05-05 14:00:20.678 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:00:20.912 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:02:10.686 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:02:10.689 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:02:15.443 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 14:13:22.329 [main] TestListeners - Execution Started at 05-05-2022 02-13-21
+[INFO ] 2022-05-05 14:14:39.218 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:14:39.482 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:15:28.143 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:15:28.149 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:15:32.463 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 14:17:29.599 [main] TestListeners - Execution Started at 05-05-2022 02-17-28
+[INFO ] 2022-05-05 14:17:47.642 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:17:47.945 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:18:35.048 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:18:35.051 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:18:39.398 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 14:19:54.230 [main] TestListeners - Execution Started at 05-05-2022 02-19-52
+[INFO ] 2022-05-05 14:20:16.357 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:20:16.568 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:21:00.618 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:21:00.620 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:21:05.647 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 14:21:58.460 [main] TestListeners - Execution Started at 05-05-2022 02-21-56
+[INFO ] 2022-05-05 14:22:21.920 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:22:22.206 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:23:21.764 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:23:21.767 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:28:46.724 [main] TestListeners - Execution Started at 05-05-2022 02-28-45
+[INFO ] 2022-05-05 14:29:07.913 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:29:08.184 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:29:54.015 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:29:54.018 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:29:59.800 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 14:30:59.671 [main] TestListeners - Execution Started at 05-05-2022 02-30-58
+[INFO ] 2022-05-05 14:31:20.325 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:31:20.617 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:32:05.132 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:32:05.135 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:32:09.728 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 14:37:44.924 [main] TestListeners - Execution Started at 05-05-2022 02-37-43
+[INFO ] 2022-05-05 14:38:06.942 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:38:07.161 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:38:44.422 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 14:38:44.426 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 14:38:48.521 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 14:40:21.856 [main] TestListeners - Execution Started at 05-05-2022 02-40-20
+[INFO ] 2022-05-05 14:40:41.179 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 14:40:41.391 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 14:41:14.890 [main] TestListeners - ********* addToCart_Test Success *********
+[INFO ] 2022-05-05 14:41:18.336 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:12:03.112 [main] TestListeners - Execution Started at 05-05-2022 03-12-01
+[INFO ] 2022-05-05 15:12:33.930 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:12:34.232 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 15:13:42.397 [main] TestListeners - ********* addToCart_Test Success *********
+[INFO ] 2022-05-05 15:13:45.970 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:14:28.450 [main] TestListeners - Execution Started at 05-05-2022 03-14-27
+[INFO ] 2022-05-05 15:14:51.014 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:14:51.377 [main] TestListeners - ********* RemoveFromCart_Test Started *********
+[INFO ] 2022-05-05 15:15:40.297 [main] TestListeners - ********* RemoveFromCart_Test Success *********
+[INFO ] 2022-05-05 15:15:44.026 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:15:57.690 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:15:57.706 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 15:16:38.085 [main] TestListeners - ********* addToCart_Test Success *********
+[INFO ] 2022-05-05 15:16:41.660 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:28:35.768 [main] TestListeners - Execution Started at 05-05-2022 03-28-34
+[INFO ] 2022-05-05 15:29:03.111 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:29:03.328 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 15:29:07.045 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 15:29:08.034 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 15:29:08.034 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 15:29:08.347 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 15:29:31.148 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 15:29:34.608 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:29:47.018 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:29:47.035 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 15:29:51.596 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 15:29:51.785 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 15:29:51.786 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 15:29:52.734 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 15:30:06.906 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 15:30:10.150 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:30:22.113 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:30:22.129 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 15:30:26.438 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 15:30:26.584 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 15:30:26.584 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 15:30:27.613 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 15:30:29.408 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 15:30:33.440 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:30:47.380 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:30:47.403 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 15:31:50.994 [main] TestListeners - ********* addToCart_Test Success *********
+[INFO ] 2022-05-05 15:31:56.029 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:32:12.481 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:32:12.498 [main] TestListeners - ********* RemoveFromCart_Test Started *********
+[INFO ] 2022-05-05 15:33:20.493 [main] TestListeners - ********* RemoveFromCart_Test Failed *********
+[ERROR] 2022-05-05 15:33:20.508 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 15:33:25.463 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:37:59.303 [main] TestListeners - Execution Started at 05-05-2022 03-37-57
+[INFO ] 2022-05-05 15:38:24.336 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:38:24.596 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 15:38:28.810 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 15:38:28.947 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 15:38:28.948 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 15:38:29.875 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 15:38:53.010 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 15:38:56.490 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:39:18.924 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:39:18.948 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 15:39:23.217 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 15:39:23.312 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 15:39:23.313 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 15:39:24.256 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 15:39:39.420 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 15:39:43.037 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:40:03.336 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:40:03.359 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 15:40:07.955 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 15:40:08.067 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 15:40:08.067 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 15:40:09.364 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 15:40:11.100 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 15:40:14.135 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:40:29.445 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:40:29.459 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 15:41:07.301 [main] TestListeners - ********* addToCart_Test Success *********
+[INFO ] 2022-05-05 15:41:11.565 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 15:41:24.107 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 15:41:24.123 [main] TestListeners - ********* RemoveFromCart_Test Started *********
+[INFO ] 2022-05-05 15:42:42.904 [main] TestListeners - ********* RemoveFromCart_Test Success *********
+[INFO ] 2022-05-05 15:42:47.718 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:21:29.670 [main] TestListeners - Execution Started at 05-05-2022 04-21-29
+[INFO ] 2022-05-05 16:21:36.773 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:21:36.816 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:21:49.920 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:21:49.921 [main] TestListeners - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.amazon.in/gp/cart/view.html?ref_=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1296, 30). Other element would receive the click: <div id="contextualIngressPt">...</div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [14dd8b9c97aedf5b1183f1ccb8299661, clickElement {id=1970dc51-18ea-4621-9e4d-a2ab366e5512}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57204}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57204/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (14dd8b9c97aedf5b1183f1ccb8299661)] -> xpath: //a[@id='nav-cart']]
+Session ID: 14dd8b9c97aedf5b1183f1ccb8299661
+[INFO ] 2022-05-05 16:21:51.556 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:24:00.706 [main] TestListeners - Execution Started at 05-05-2022 04-24-00
+[INFO ] 2022-05-05 16:24:08.495 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:24:08.541 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:24:23.624 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:24:23.625 [main] TestListeners - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.amazon.in/gp/cart/view.html?ref_=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1296, 30). Other element would receive the click: <div id="contextualIngressPt">...</div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fb9a8131bcd6a2740edf9d5b3af22cec, clickElement {id=fff9ea98-38eb-42b3-8c83-7b0b48257bed}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57524}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57524/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (fb9a8131bcd6a2740edf9d5b3af22cec)] -> xpath: //a[@id='nav-cart']]
+Session ID: fb9a8131bcd6a2740edf9d5b3af22cec
+[INFO ] 2022-05-05 16:24:25.245 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:25:26.708 [main] TestListeners - Execution Started at 05-05-2022 04-25-26
+[INFO ] 2022-05-05 16:25:39.717 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:25:39.754 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:25:53.989 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:25:53.991 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']//span[@class='a-price-whole'])[1]"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0e26efe96e91f39aa8b810cc29dfcc2, findElement {using=xpath, value=(//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']//span[@class='a-price-whole'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57782/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0e26efe96e91f39aa8b810cc29dfcc2
+[INFO ] 2022-05-05 16:25:55.352 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:27:57.549 [main] TestListeners - Execution Started at 05-05-2022 04-27-57
+[INFO ] 2022-05-05 16:28:14.725 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:28:14.773 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:28:55.128 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:28:55.130 [main] TestListeners - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.amazon.in/gp/cart/view.html?ref_=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1296, 30). Other element would receive the click: <div id="contextualIngressPt">...</div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57d00dee31b7ef247b46113e62c7bf8c, clickElement {id=d6baab39-0fe8-4c66-8c78-9aa071d1d73b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58080}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58080/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (57d00dee31b7ef247b46113e62c7bf8c)] -> xpath: //a[@id='nav-cart']]
+Session ID: 57d00dee31b7ef247b46113e62c7bf8c
+[INFO ] 2022-05-05 16:28:56.723 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:33:23.435 [main] TestListeners - Execution Started at 05-05-2022 04-33-23
+[INFO ] 2022-05-05 16:33:31.182 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:33:31.212 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:33:48.064 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:33:48.064 [main] TestListeners - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.amazon.in/gp/cart/view.html?ref_=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1296, 25). Other element would receive the click: <div id="contextualIngressPt">...</div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab1ded5f92cec1d441f8207b3bd00753, clickElement {id=c5321e43-c2ef-466f-ac32-52f59927381f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58695/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (ab1ded5f92cec1d441f8207b3bd00753)] -> xpath: //a[@id='nav-cart']]
+Session ID: ab1ded5f92cec1d441f8207b3bd00753
+[INFO ] 2022-05-05 16:33:49.663 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:34:53.780 [main] TestListeners - Execution Started at 05-05-2022 04-34-53
+[INFO ] 2022-05-05 16:35:02.765 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:35:02.800 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:35:15.791 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:35:15.793 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']//span[@class='a-price-whole'])[1]"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e24d190ea04f3af235425bdcb70a39c4, findElement {using=xpath, value=(//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']//span[@class='a-price-whole'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58951/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e24d190ea04f3af235425bdcb70a39c4
+[INFO ] 2022-05-05 16:35:17.162 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:47:19.343 [main] TestListeners - Execution Started at 05-05-2022 04-47-19
+[INFO ] 2022-05-05 16:47:28.824 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:47:28.922 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:47:41.699 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:47:41.700 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='a-price a-text-price a-size-medium apexPriceToPay']/span[1]"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [96b627e04ca08525d9e62925772c83dc, findElement {using=xpath, value=//span[@class='a-price a-text-price a-size-medium apexPriceToPay']/span[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59741}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59741/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96b627e04ca08525d9e62925772c83dc
+[INFO ] 2022-05-05 16:47:43.102 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:48:32.805 [main] TestListeners - Execution Started at 05-05-2022 04-48-32
+[INFO ] 2022-05-05 16:48:41.273 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:48:41.313 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:49:06.254 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:49:06.256 [main] TestListeners - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.amazon.in/gp/cart/view.html?ref_=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1296, 25). Other element would receive the click: <div id="contextualIngressPt">...</div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f3ea9f56d1c8ca370504d591a034ca9c, clickElement {id=55c9c214-0675-409d-b4b6-0ea7788542c0}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59973}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59973/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f3ea9f56d1c8ca370504d591a034ca9c)] -> xpath: //a[@id='nav-cart']]
+Session ID: f3ea9f56d1c8ca370504d591a034ca9c
+[INFO ] 2022-05-05 16:49:07.761 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:55:13.198 [main] TestListeners - Execution Started at 05-05-2022 04-55-12
+[INFO ] 2022-05-05 16:55:36.404 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:55:36.448 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:55:56.019 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:55:56.021 [main] TestListeners - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.amazon.in/gp/cart/view.html?ref_=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1296, 25). Other element would receive the click: <div id="contextualIngressPt">...</div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4924407050a503c74e5ed2b49b132d83, clickElement {id=80d08386-cc00-4db4-939c-e82264bc0af4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60593/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (4924407050a503c74e5ed2b49b132d83)] -> xpath: //a[@id='nav-cart']]
+Session ID: 4924407050a503c74e5ed2b49b132d83
+[INFO ] 2022-05-05 16:55:57.338 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 16:58:19.972 [main] TestListeners - Execution Started at 05-05-2022 04-58-19
+[INFO ] 2022-05-05 16:58:30.225 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:58:30.257 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:59:03.640 [main] TestListeners - Execution Started at 05-05-2022 04-59-03
+[INFO ] 2022-05-05 16:59:10.610 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 16:59:10.642 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 16:59:27.528 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 16:59:27.528 [main] TestListeners - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.amazon.in/gp/cart/view.html?ref_=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">...</a> is not clickable at point (1296, 25). Other element would receive the click: <div id="contextualIngressPt">...</div>
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eafef53b3de3a2203c5087419d0334c5, clickElement {id=d708037d-a14a-446c-a64f-feebf2ad0e16}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61106/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (eafef53b3de3a2203c5087419d0334c5)] -> xpath: //a[@id='nav-cart']]
+Session ID: eafef53b3de3a2203c5087419d0334c5
+[INFO ] 2022-05-05 16:59:29.000 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:01:26.603 [main] TestListeners - Execution Started at 05-05-2022 05-01-26
+[INFO ] 2022-05-05 17:01:34.989 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:01:35.025 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:01:48.719 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:01:48.721 [main] TestListeners - java.lang.NumberFormatException: For input string: ""
+[INFO ] 2022-05-05 17:01:49.857 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:02:55.282 [main] TestListeners - Execution Started at 05-05-2022 05-02-54
+[INFO ] 2022-05-05 17:03:03.180 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:03:03.213 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:03:18.191 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:03:18.192 [main] TestListeners - java.lang.NumberFormatException: For input string: ""
+[INFO ] 2022-05-05 17:03:19.389 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:08:06.851 [main] TestListeners - Execution Started at 05-05-2022 05-08-06
+[INFO ] 2022-05-05 17:08:13.980 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:08:14.030 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:08:40.124 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:08:40.125 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='sc-list-item-content']/div/div[2]/ul/li[2]/span/p/span/span/span/span/span/parent::span"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b343dbe6b6f28799b92c44ccaaea38a3, findElement {using=xpath, value=//div[@class='sc-list-item-content']/div/div[2]/ul/li[2]/span/p/span/span/span/span/span/parent::span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58854}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58854/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b343dbe6b6f28799b92c44ccaaea38a3
+[INFO ] 2022-05-05 17:08:41.503 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:11:56.818 [main] TestListeners - Execution Started at 05-05-2022 05-11-56
+[INFO ] 2022-05-05 17:12:07.764 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:12:07.799 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:12:28.866 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:12:28.867 [main] TestListeners - java.lang.NumberFormatException: For input string: ""
+[INFO ] 2022-05-05 17:12:30.068 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:13:16.042 [main] TestListeners - Execution Started at 05-05-2022 05-13-15
+[INFO ] 2022-05-05 17:13:27.052 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:13:27.088 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:13:58.346 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:13:58.348 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='a-price sc-product-price']//span[@class='a-price-whole']"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [25ce4dee6ce1ee4a180fa7c074316c75, findElement {using=xpath, value=//span[@class='a-price sc-product-price']//span[@class='a-price-whole']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62834/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 25ce4dee6ce1ee4a180fa7c074316c75
+[INFO ] 2022-05-05 17:13:59.723 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:18:37.492 [main] TestListeners - Execution Started at 05-05-2022 05-18-37
+[INFO ] 2022-05-05 17:18:44.251 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:18:44.286 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:19:00.441 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:19:00.442 [main] TestListeners - java.lang.NumberFormatException: For input string: ""
+[INFO ] 2022-05-05 17:19:01.561 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:21:18.808 [main] TestListeners - Execution Started at 05-05-2022 05-21-18
+[INFO ] 2022-05-05 17:21:26.116 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:21:26.158 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:21:56.596 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:21:56.597 [main] TestListeners - java.lang.NumberFormatException: For input string: "?13999"
+[INFO ] 2022-05-05 17:21:57.803 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:23:03.086 [main] TestListeners - Execution Started at 05-05-2022 05-23-02
+[INFO ] 2022-05-05 17:23:11.962 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:23:11.998 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:23:33.071 [main] TestListeners - ********* product_Price_Validation_On_CartPage Failed *********
+[ERROR] 2022-05-05 17:23:33.072 [main] TestListeners - java.lang.NumberFormatException: For input string: "?13999"
+[INFO ] 2022-05-05 17:23:34.314 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:28:25.421 [main] TestListeners - Execution Started at 05-05-2022 05-28-25
+[INFO ] 2022-05-05 17:28:37.528 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:28:37.567 [main] TestListeners - ********* product_Price_Validation_On_CartPage Started *********
+[INFO ] 2022-05-05 17:28:58.397 [main] TestListeners - ********* product_Price_Validation_On_CartPage Success *********
+[INFO ] 2022-05-05 17:28:59.401 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:46:57.208 [main] TestListeners - Execution Started at 05-05-2022 05-46-56
+[INFO ] 2022-05-05 17:47:04.706 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:47:04.744 [main] TestListeners - ********* subTotalAmountValidation Started *********
+[INFO ] 2022-05-05 17:47:16.982 [main] TestListeners - ********* subTotalAmountValidation Failed *********
+[ERROR] 2022-05-05 17:47:16.984 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']//span[@class='a-price-whole'])[1]"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0f8a7f04b73c06eaaef343cc661ded65, findElement {using=xpath, value=(//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']//span[@class='a-price-whole'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53190}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53190/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0f8a7f04b73c06eaaef343cc661ded65
+[INFO ] 2022-05-05 17:47:18.241 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:48:06.459 [main] TestListeners - Execution Started at 05-05-2022 05-48-06
+[INFO ] 2022-05-05 17:48:23.455 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:48:23.492 [main] TestListeners - ********* subTotalAmountValidation Started *********
+[INFO ] 2022-05-05 17:48:35.704 [main] TestListeners - ********* subTotalAmountValidation Failed *********
+[ERROR] 2022-05-05 17:48:35.705 [main] TestListeners - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0377a69d5a33245505310db250f54459, sendKeysToElement {id=64048b7b-55cd-46dd-baf5-d373d9e18984, value=[Ljava.lang.CharSequence;@6cd56321}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53352}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53352/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0377a69d5a33245505310db250f54459)] -> xpath: //input[@id='twotabsearchtextbox']]
+Session ID: 0377a69d5a33245505310db250f54459
+[INFO ] 2022-05-05 17:48:37.127 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:50:03.675 [main] TestListeners - Execution Started at 05-05-2022 05-50-03
+[INFO ] 2022-05-05 17:50:12.523 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:50:12.556 [main] TestListeners - ********* subTotalAmountValidation Started *********
+[INFO ] 2022-05-05 17:50:34.003 [main] TestListeners - ********* subTotalAmountValidation Failed *********
+[ERROR] 2022-05-05 17:50:34.005 [main] TestListeners - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=101.0.4951.41)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f29117e67d236f7355112ec9b0c91f4d, sendKeysToElement {id=419c6640-d128-4721-98e3-89f95022d632, value=[Ljava.lang.CharSequence;@1da4b6b3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53532/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f29117e67d236f7355112ec9b0c91f4d)] -> xpath: //input[@id='twotabsearchtextbox']]
+Session ID: f29117e67d236f7355112ec9b0c91f4d
+[INFO ] 2022-05-05 17:50:35.429 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 17:51:56.100 [main] TestListeners - Execution Started at 05-05-2022 05-51-55
+[INFO ] 2022-05-05 17:52:32.368 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 17:52:32.406 [main] TestListeners - ********* subTotalAmountValidation Started *********
+[INFO ] 2022-05-05 17:54:13.303 [main] TestListeners - ********* subTotalAmountValidation Success *********
+[INFO ] 2022-05-05 17:54:14.376 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:08:14.118 [main] TestListeners - Execution Started at 05-05-2022 06-08-13
+[INFO ] 2022-05-05 18:09:08.879 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:09:08.931 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 18:09:10.021 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 18:09:10.121 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 18:09:10.121 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 18:09:10.274 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 18:09:31.613 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 18:09:32.717 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:09:39.484 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:09:39.486 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 18:09:40.965 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 18:09:40.990 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 18:09:40.990 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 18:09:41.052 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 18:09:53.803 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 18:09:54.856 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:10:01.267 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:10:01.269 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 18:10:02.596 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 18:10:02.606 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 18:10:02.606 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 18:10:02.671 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 18:10:03.785 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 18:10:04.774 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:10:10.364 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:10:10.366 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 18:10:37.583 [main] TestListeners - ********* addToCart_Test Failed *********
+[ERROR] 2022-05-05 18:10:37.585 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 18:10:38.861 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:10:47.736 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:10:47.740 [main] TestListeners - ********* RemoveFromCart_Test Started *********
+[INFO ] 2022-05-05 18:11:10.725 [main] TestListeners - ********* RemoveFromCart_Test Success *********
+[INFO ] 2022-05-05 18:11:11.694 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:11:33.392 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:11:33.395 [main] TestListeners - ********* product_Price_Validation Started *********
+[INFO ] 2022-05-05 18:12:07.056 [main] TestListeners - ********* product_Price_Validation Failed *********
+[ERROR] 2022-05-05 18:12:07.056 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='a-price sc-product-price']//span[@class='a-price-whole']"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3f692d75ec87d7ed3ae4bc4c5ce1b7d4, findElement {using=xpath, value=//span[@class='a-price sc-product-price']//span[@class='a-price-whole']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55137}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55137/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f692d75ec87d7ed3ae4bc4c5ce1b7d4
+[INFO ] 2022-05-05 18:12:08.277 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:12:17.310 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:12:17.313 [main] TestListeners - ********* subTotalAmountValidation Started *********
+[INFO ] 2022-05-05 18:12:56.430 [main] TestListeners - ********* subTotalAmountValidation Success *********
+[INFO ] 2022-05-05 18:12:57.491 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:16:07.872 [main] TestListeners - Execution Started at 05-05-2022 06-16-07
+[INFO ] 2022-05-05 18:16:22.965 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:16:23.002 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 18:16:26.114 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 18:16:26.125 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 18:16:26.126 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 18:16:26.188 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 18:16:50.710 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 18:16:51.822 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:17:05.652 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:17:05.656 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 18:17:07.319 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 18:17:07.328 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 18:17:07.329 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 18:17:07.384 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 18:17:20.244 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 18:17:21.303 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:17:31.525 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:17:31.528 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 18:17:32.892 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 18:17:32.901 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 18:17:32.901 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 18:17:32.950 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 18:17:33.767 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 18:17:34.738 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:17:42.311 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:17:42.315 [main] TestListeners - ********* addToCart_Test Started *********
+[INFO ] 2022-05-05 18:18:12.524 [main] TestListeners - ********* addToCart_Test Success *********
+[INFO ] 2022-05-05 18:18:13.600 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:18:20.488 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:18:20.490 [main] TestListeners - ********* RemoveFromCart_Test Started *********
+[INFO ] 2022-05-05 18:18:47.016 [main] TestListeners - ********* RemoveFromCart_Test Failed *********
+[ERROR] 2022-05-05 18:18:47.017 [main] TestListeners - java.lang.AssertionError: expected [true] but found [false]
+[INFO ] 2022-05-05 18:18:48.209 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:18:53.891 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:18:53.894 [main] TestListeners - ********* product_Price_Validation Started *********
+[INFO ] 2022-05-05 18:19:27.622 [main] TestListeners - ********* product_Price_Validation Failed *********
+[ERROR] 2022-05-05 18:19:27.623 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='a-price sc-product-price']//span[@class='a-price-whole']"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d060178d1f00bec214a351060f64b3ed, findElement {using=xpath, value=//span[@class='a-price sc-product-price']//span[@class='a-price-whole']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56028/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d060178d1f00bec214a351060f64b3ed
+[INFO ] 2022-05-05 18:19:28.857 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 18:19:37.790 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 18:19:37.793 [main] TestListeners - ********* subTotalAmountValidation Started *********
+[INFO ] 2022-05-05 18:20:19.378 [main] TestListeners - ********* subTotalAmountValidation Success *********
+[INFO ] 2022-05-05 18:20:20.460 [main] TestListeners - Closing all opened browsers

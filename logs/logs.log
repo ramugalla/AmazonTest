@@ -1,0 +1,37 @@
+[INFO ] 2022-05-05 10:57:03.824 [main] TestListeners - Execution Started at 05-05-2022 10-57-03
+[INFO ] 2022-05-05 10:57:03.826 [main] TestListeners - Creatring Date with Time folder under Results
+[INFO ] 2022-05-05 10:57:24.034 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 10:57:24.078 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 10:57:27.799 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 10:57:27.811 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 10:57:27.811 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 10:57:27.880 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 10:57:33.665 [main] TestListeners - enter password
+[INFO ] 2022-05-05 10:57:33.791 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 10:57:34.914 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 10:57:49.237 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 10:57:49.239 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 10:57:52.252 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 10:57:52.261 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 10:57:52.261 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 10:57:52.320 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 10:57:57.922 [main] TestListeners - enter password
+[INFO ] 2022-05-05 10:57:58.021 [main] TestListeners - ********* login_test Success *********
+[INFO ] 2022-05-05 10:57:59.155 [main] TestListeners - Closing all opened browsers
+[INFO ] 2022-05-05 10:58:15.912 [main] TestListeners - application opened in chrome
+[INFO ] 2022-05-05 10:58:15.914 [main] TestListeners - ********* login_test Started *********
+[INFO ] 2022-05-05 10:58:17.770 [main] TestListeners - Click on signIn button
+[INFO ] 2022-05-05 10:58:17.780 [main] TestListeners - Login Page Title: Amazon Sign In
+[INFO ] 2022-05-05 10:58:17.780 [main] TestListeners - Login Page Title Validation Success
+[INFO ] 2022-05-05 10:58:17.844 [main] TestListeners - Enter username
+[INFO ] 2022-05-05 10:58:29.413 [main] TestListeners - ********* login_test Failed *********
+[ERROR] 2022-05-05 10:58:29.414 [main] TestListeners - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='ap_password']"}
+  (Session info: chrome=101.0.4951.41)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'MAVCHN1121513', ip: '192.168.43.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00a05d4f3f65554c99ed9b744bd3fd40, findElement {using=xpath, value=//input[@id='ap_password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.41, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\ramug\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54945/devtoo..., se:cdpVersion: 101.0.4951.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 00a05d4f3f65554c99ed9b744bd3fd40
+[INFO ] 2022-05-05 10:58:30.799 [main] TestListeners - Closing all opened browsers
